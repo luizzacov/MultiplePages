@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiplePages</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="document_it">Document it!</string>
+    <string name="experience">EXPERIENCE</string>
+    <string name="establish">ESTABLISH</string>
+    <string name="explain_it">EXPLAIN</string>
+    <string name="get_Started">GET STARTED</string>
+    <string name="establish_it">ESTABLISH</string>
+    <string name="title_activity_establish_it">EstablishIt</string>
+    <string name="title_activity_access_camera">AccessCAmera</string>
+
+</resources>
